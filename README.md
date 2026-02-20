@@ -1,3 +1,5 @@
+Author: Sumit Srivastava
+
 Installation steps: to install 'add_tool' tool, run the following JSON command:
 
 {
